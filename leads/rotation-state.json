@@ -1,0 +1,12 @@
+{
+  "categories": [
+    "Restaurantes y bares",
+    "Peluquerías y salones de belleza",
+    "Talleres mecánicos",
+    "Tiendas de barrio (ropa, alimentación, regalos)",
+    "Servicios locales (fontaneros, electricistas, gestorías, clínicas dentales)"
+  ],
+  "last_run_date": "2026-07-21",
+  "last_category_index": 0,
+  "next_category_index": 1
+}
